@@ -1,2 +1,2 @@
 # CSUMB
-My work from CSU Monterey
+My Fall 2016 work from CSU Monterey 
